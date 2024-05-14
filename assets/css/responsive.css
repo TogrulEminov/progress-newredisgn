@@ -1,6 +1,10 @@
 @media screen and (min-width: 576px) {
 }
 @media screen and (min-width: 768px) {
+  /* blog */
+  .blog-card-content a {
+    font-size: 22px;
+  }
   /* footer */
   .footer-right-head h2 {
     font-size: 30px;
@@ -18,7 +22,6 @@
 }
 @media screen and (min-width: 992px) {
   /* footer */
-
   .footer-bottom-wrapper {
     width: 66.66666667%;
   }
