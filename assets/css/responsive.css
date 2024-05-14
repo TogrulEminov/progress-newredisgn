@@ -1,0 +1,29 @@
+@media screen and (min-width: 576px) {
+}
+@media screen and (min-width: 768px) {
+  /* footer */
+  .footer-right-head h2 {
+    font-size: 30px;
+    line-height: 70px;
+  }
+  .siteby-content {
+    float: right;
+  }
+  .footer-right-head {
+    display: block;
+  }
+  .blog-navigation {
+    display: flex;
+  }
+}
+@media screen and (min-width: 992px) {
+  /* footer */
+
+  .footer-bottom-wrapper {
+    width: 66.66666667%;
+  }
+}
+@media screen and (min-width: 1200px) {
+}
+@media screen and (min-width: 1400px) {
+}
