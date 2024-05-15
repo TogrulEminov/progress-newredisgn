@@ -39,13 +39,17 @@ a {
   --black: #000;
   --color-1: #5b8c51;
   --bg-4: #5b8c51;
+  --bg-5: #d7d7d7;
   --color-2: #404a3d;
   --color-3: #666;
   --color-4: #404a3d;
   --bg-2: #404a3d;
   --bg-3: #eddd5e;
   --bg-1: #f8f7f0;
+  --bg-6: #404a3d;
   --border-2: #404a3d;
+  --border-3: #5b8c51;
+  --border-4: rgba(255, 255, 255, 0.377);
   --border-1: rgba(64, 74, 61, 0.2);
 }
 
